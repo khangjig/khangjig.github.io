@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/static/js/main.75c82800.chunk.js",
-    "main.js.map": "/static/js/main.75c82800.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7dae3964.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7dae3964.js.map",
-    "static/js/2.1d709ddd.chunk.js": "/static/js/2.1d709ddd.chunk.js",
-    "static/js/2.1d709ddd.chunk.js.map": "/static/js/2.1d709ddd.chunk.js.map",
-    "static/js/3.5979cfad.chunk.js": "/static/js/3.5979cfad.chunk.js",
-    "static/js/3.5979cfad.chunk.js.map": "/static/js/3.5979cfad.chunk.js.map",
+    "main.css": "/static/css/main.eb92889a.chunk.css",
+    "main.js": "/static/js/main.8c4f1552.chunk.js",
+    "main.js.map": "/static/js/main.8c4f1552.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.357f2e9b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.357f2e9b.js.map",
+    "static/js/2.e7bf4285.chunk.js": "/static/js/2.e7bf4285.chunk.js",
+    "static/js/2.e7bf4285.chunk.js.map": "/static/js/2.e7bf4285.chunk.js.map",
+    "static/js/3.82edd560.chunk.js": "/static/js/3.82edd560.chunk.js",
+    "static/js/3.82edd560.chunk.js.map": "/static/js/3.82edd560.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.1d709ddd.chunk.js.LICENSE.txt": "/static/js/2.1d709ddd.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "static/css/main.eb92889a.chunk.css.map": "/static/css/main.eb92889a.chunk.css.map",
+    "static/js/2.e7bf4285.chunk.js.LICENSE.txt": "/static/js/2.e7bf4285.chunk.js.LICENSE.txt",
+    "static/media/golang.36a6b1a2.png": "/static/media/golang.36a6b1a2.png",
+    "static/media/portfolio-simple-2-p1.47f04973.jpg": "/static/media/portfolio-simple-2-p1.47f04973.jpg",
+    "static/media/portfolio-simple-2-p2.45ef0d73.jpg": "/static/media/portfolio-simple-2-p2.45ef0d73.jpg",
+    "static/media/portfolio-simple-2-p3.b82f6d55.jpg": "/static/media/portfolio-simple-2-p3.b82f6d55.jpg",
+    "static/media/portfolio-simple-2-p4.e7a3598d.jpg": "/static/media/portfolio-simple-2-p4.e7a3598d.jpg",
+    "static/media/portfolio-simple-2-p5.e86a9f21.jpg": "/static/media/portfolio-simple-2-p5.e86a9f21.jpg",
+    "static/media/portfolio-simple-2-p6.5342be4c.jpg": "/static/media/portfolio-simple-2-p6.5342be4c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dae3964.js",
-    "static/js/2.1d709ddd.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.75c82800.chunk.js"
+    "static/js/runtime-main.357f2e9b.js",
+    "static/js/2.e7bf4285.chunk.js",
+    "static/css/main.eb92889a.chunk.css",
+    "static/js/main.8c4f1552.chunk.js"
   ]
 }
