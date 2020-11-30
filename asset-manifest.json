@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb92889a.chunk.css",
-    "main.js": "/static/js/main.8c4f1552.chunk.js",
-    "main.js.map": "/static/js/main.8c4f1552.chunk.js.map",
+    "main.css": "/static/css/main.1ad5e5d2.chunk.css",
+    "main.js": "/static/js/main.c9153522.chunk.js",
+    "main.js.map": "/static/js/main.c9153522.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.357f2e9b.js",
     "runtime-main.js.map": "/static/js/runtime-main.357f2e9b.js.map",
     "static/js/2.e7bf4285.chunk.js": "/static/js/2.e7bf4285.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.82edd560.chunk.js": "/static/js/3.82edd560.chunk.js",
     "static/js/3.82edd560.chunk.js.map": "/static/js/3.82edd560.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.eb92889a.chunk.css.map": "/static/css/main.eb92889a.chunk.css.map",
+    "static/css/main.1ad5e5d2.chunk.css.map": "/static/css/main.1ad5e5d2.chunk.css.map",
     "static/js/2.e7bf4285.chunk.js.LICENSE.txt": "/static/js/2.e7bf4285.chunk.js.LICENSE.txt",
     "static/media/golang.36a6b1a2.png": "/static/media/golang.36a6b1a2.png",
     "static/media/portfolio-simple-2-p1.47f04973.jpg": "/static/media/portfolio-simple-2-p1.47f04973.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.357f2e9b.js",
     "static/js/2.e7bf4285.chunk.js",
-    "static/css/main.eb92889a.chunk.css",
-    "static/js/main.8c4f1552.chunk.js"
+    "static/css/main.1ad5e5d2.chunk.css",
+    "static/js/main.c9153522.chunk.js"
   ]
 }
